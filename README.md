@@ -1,3 +1,5 @@
+George wittenburg lotz og skole email: gelo1000@stud.ek.dk
+
 ### Exercises with Variables and control structures
 
 Velkommen til den første opgave-torsdag. 
